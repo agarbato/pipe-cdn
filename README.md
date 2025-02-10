@@ -11,11 +11,11 @@ Read the doc [here](https://docs.pipe.network/devnet-2)
 - [Docker Compose](https://docs.docker.com/compose/install/)
 - Pop node requirements:
 
-  System Requirements
-  Linux
-  Minimum 4GB RAM (configurable), more the better for higher rewards
-  At least 100GB free disk space (configurable). 200-500GB is a sweet spot
-  Internet connectivity available 24/7
+  System Requirements   
+  Linux   
+  Minimum 4GB RAM (configurable), more the better for higher rewards   
+  At least 100GB free disk space (configurable). 200-500GB is a sweet spot   
+  Internet connectivity available 24/7   
 
 ## Getting Started
 
