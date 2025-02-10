@@ -1,0 +1,14 @@
+services:
+  pop_service:
+    build: .
+    container_name: pop_container
+    environment:
+      - RAM=4gb
+      - PUBKEY=your_wallet_address
+      - MAX_DISK=100gb
+    volumes:
+      - ./data/node_info.json:/app/node_info.json
+      - ./download_cache:/app/download_cache
+    ports:
+      - "8003:8003"
+
