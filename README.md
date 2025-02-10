@@ -22,7 +22,7 @@ Read the doc [here](https://docs.pipe.network/devnet-2)
 1. Clone the repository:
    ```sh
    git clone https://github.com/agarbato/pipe-cdn
-   cd your-repo
+   cd pipe-cdn
    ```
 2.  Change docker-compose envs to add your wallet pubKey, change default ram/disk.
 
