@@ -1,7 +1,7 @@
 FROM debian:12-slim
 
 # Argument for version
-ARG VERSION=0.2.4
+ARG VERSION=0.2.8
 
 # Set working directory
 WORKDIR /app
